@@ -151,12 +151,9 @@ video::-webkit-media-controls {
 .col-centered{
     float: none;
     margin: 0 auto;
+list-style: none;
 }
 
-#serviceslist{
-	list-style: none;
-	font-size:20px;
-}
 
 
 #chris {
