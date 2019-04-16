@@ -105,13 +105,13 @@ p{
 }
 
 i {
-	font-size:50px;
+	font-size:20px;
 	color: #1f5881;
 }
 
 .link {
 	color: #1f5881;
-	font-size:18px;
+	font-size:12px;
 }
 
 .link:hover {
@@ -157,9 +157,7 @@ video::-webkit-media-controls {
 	width:80%
 }
 
-.link {
-	font-size:10px;
-}
+
 
 header {
   position: relative;
