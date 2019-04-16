@@ -151,3 +151,13 @@ ul{
 	list-style: none;
 	font-size:20px;
 }
+
+.img-fluid {
+    position: relative;
+    float: left;
+    height: 250px;
+}
+
+.img-fluid2 {
+	height:500px;
+}
