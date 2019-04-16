@@ -147,7 +147,7 @@ video::-webkit-media-controls {
     margin: 0 auto;
 }
 
-ul{
+#serviceslist{
 	list-style: none;
 	font-size:20px;
 }
