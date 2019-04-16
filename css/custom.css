@@ -27,6 +27,14 @@ body{
 	margin-left:100px;
 }
 
+
+h1 {
+    font-family: 'Merriweather', serif;
+    font-size: 50px;
+	padding:20px;
+}
+
+
 h2 {
     font-family: 'Merriweather', sans-serif;
 	font-size: 28px;
