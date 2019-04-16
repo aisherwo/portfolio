@@ -158,6 +158,10 @@ video::-webkit-media-controls {
 	width:80%
 }
 
+.link {
+	font-size:10px;
+}
+
 header {
   position: relative;
   background-color: black;
